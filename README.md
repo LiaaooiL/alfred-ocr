@@ -208,10 +208,18 @@ pip install zxing
 
 ## 致谢
 
+### [Jetbrains](https://www.jetbrains.com/?from=Alfred-OCR)
+
+![jetbrains_logo][image-6]
+
+### 项目
+
 1. [breezedeus/cnocr][13]
 2. [dlenski/python-zxing][14]
 3. [ginfuru/alfred-screen-capture][15]
 4. [oott123/alfred-clipboard-ocr][16]
+
+### 用户
 
 感谢以下小伙伴帮助测试：
 
@@ -240,3 +248,4 @@ pip install zxing
 [image-3]: examples/file_ocr.png
 [image-4]: examples/first_lang_select.png
 [image-5]: examples/second_lang_select.png
+[image-6]: examples/jetbrains_logo.png
