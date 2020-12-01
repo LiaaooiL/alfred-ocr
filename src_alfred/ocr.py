@@ -1,9 +1,9 @@
 '''
-@Description: Capture than OCR - Online OCR
+@Description: Capture then OCR - Alfred for macOS
 @version: 4.8
 @Author: Chandler Lu
 @Date: 2019-11-26 23:52:36
-@LastEditTime: 2020-07-15 20:52:29
+LastEditTime: 2020-12-01 09:26:33
 '''
 # -*- coding: UTF-8 -*-
 import sys

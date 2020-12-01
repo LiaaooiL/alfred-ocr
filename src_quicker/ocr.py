@@ -1,5 +1,5 @@
 '''
-@Description: Capture than OCR - Quicker for Windows - Online OCR
+@Description: Capture then OCR - Quicker for Windows - Online OCR
 @version: 1.0
 @Author: Chandler Lu
 @Date: 2020-03-07 17:38:10
